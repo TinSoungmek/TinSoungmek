@@ -32,6 +32,7 @@ I am a 3rd-year Computer Engineering student with a strong passion for bridging 
 ![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ---
 
 ### 📂 Highlighted Projects
