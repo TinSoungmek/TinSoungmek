@@ -19,6 +19,7 @@ I am a 3rd-year Computer Engineering student with a strong passion for bridging 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 **Database & API**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-Protocol-660066?style=flat-square)
